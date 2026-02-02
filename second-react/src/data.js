@@ -14,7 +14,7 @@ export default [
   {
     id: 2,
     img: {
-      src: "https://images.unsplash.com/photo-1506973035872-a4f23efc3c85",
+      src: "https://images.unsplash.com/photo-1769251846168-6181604d0682?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       alt: "Sydney Opera House",
     },
     title: "Sydney Opera House",
