@@ -8,6 +8,7 @@ export default function Main() {
         <li>Has well over 200K stars on GitHub</li>
         <li>Is maintained by Meta</li>
         <li>Powers thousands of enterprise apps, including mobile apps</li>
+        <li>Is open source</li>
       </ul>
     </main>
   );
